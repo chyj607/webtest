@@ -18,6 +18,8 @@
 			<li>5</li>
 			<li>7</li>
 			<li>6</li>
+			<li>가</li>
+			<li>나</li>
 		</ul>
 	</div>
 </body>
